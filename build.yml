@@ -2,7 +2,7 @@ sdkversion: "5.2.0"
 name: "new_orm_spec_ruby"
 version: "1.0"
 vendor: "rhomobile"
-build: "debug"
+build: "release"
 applog: "rholog.txt"
 iphone:
   configuration: "Release"
